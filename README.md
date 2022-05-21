@@ -11,4 +11,4 @@ Open with vscode after clone the file
 Pull requests will be accepted. For big changes, you should debate with me about what you want to change in the repository
 
 # License
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
